@@ -13,7 +13,7 @@
 name: Update Checker
 
 env:
-  REPO_URL: https://github.com/dailook/immortalwrt-24.10.git
+  REPO_URL: https://github.com/sfsk00/immortalwrt-24.10.git
   REPO_BRANCH: openwrt-21.02
 on:
   workflow_dispatch:
